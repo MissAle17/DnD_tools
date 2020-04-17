@@ -9,8 +9,8 @@ The first step in the role playing game is to make a chancter.  One of the first
 
 ### Roll a die
 
-The 20-sided die is the primary system for introducing a little randomness into the game.  I created a function to roll that d20.  If you need one of the other core dice, you can also ask the same function for a roll.  
+The 20-sided die is the primary system for introducing a little randomness into the game.  I created a function to roll that d20.  If you need one of the other core dice, you can also ask the same function for a different sided die roll.  
 
-### Elvish Name Generator
+### Character or NPC Name Generator
 
-If you are running the game, or sometimes playing, creating a new name for a character can create a panic of writer's block.  This name generator takes some of the pain out of it.  For now, it works for Elvish style names.  In the future, It will also include other races.
+If you are running the game, or sometimes playing, creating a new name for a character can create a panic of writer's block.  This name generator takes some of the pain out of it.  All standard rule book conventions are followed for playable races.  Humans have the availability of using the subraces included in 5e.  
