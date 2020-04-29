@@ -13,4 +13,4 @@ The 20-sided die is the primary system for introducing a little randomness into 
 
 ### Character or NPC Name Generator
 
-If you are running the game, or sometimes playing, creating a new name for a character can create a panic of writer's block.  This name generator takes some of the pain out of it.  All standard rule book conventions are followed for playable races.  Humans have the availability of using the subraces included in 5e.  
+If you are running the game, or sometimes playing, creating a new name for a character can create a panic of writer's block.  This name generator takes some of the pain out of it.  All standard rule book conventions are followed for playable races.  Humans have the availability of using the subraces included in 5e. Tiefling have the ability to choose a virtue name as well as an infernal name. Currently, all core rule book playable races are supported.
